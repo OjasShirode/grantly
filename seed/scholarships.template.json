@@ -1,0 +1,22 @@
+[
+  {
+    "name": "FILL FROM OFFICIAL SOURCE: scheme name",
+    "provider": "Issuing ministry / organisation",
+    "type": "Government",
+    "category": "Need Based",
+    "amount": 0,
+    "amountNote": "/ year",
+    "state": "All India",
+    "incomeLimit": 0,
+    "minPercentage": 0,
+    "deadline": "YYYY-MM-DD",
+    "officialUrl": "https://official-site-of-the-scheme",
+    "description": "One or two lines from the official page.",
+    "education": ["Undergraduate"],
+    "allowedCategories": ["General", "OBC", "SC", "ST", "EWS"],
+    "documents": ["Income Certificate", "Marksheet", "Bank Passbook"],
+    "benefits": ["Copy from the official page"],
+    "process": ["Register on the official portal", "Upload documents", "Submit"],
+    "featured": false
+  }
+]

@@ -56,7 +56,7 @@ function Sidebar({ onNavigate }) {
         >
           {/* Cream tile behind the logo only; the rest of the card stays dark */}
           <span className="grid h-12 w-12 shrink-0 place-items-center rounded-xl bg-[#f3ead8] shadow-sm ring-1 ring-[#e3d5b8]">
-            <Logo size={34} className="transition-transform group-hover:scale-110" />
+            <Logo size={34} tile={false} className="transition-transform group-hover:scale-110" />
           </span>
           <span className="min-w-0">
             <span className="block font-serif text-[1.65rem] font-semibold leading-none tracking-wide text-[#faf9f5]">Grantly</span>
